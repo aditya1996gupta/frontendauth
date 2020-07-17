@@ -12,7 +12,7 @@ export default {
   data () {
     return {
       user: {
-        name: 'Aditya'
+        name: 'Adityagupta'
       }
     }
   },
